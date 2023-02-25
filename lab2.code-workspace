@@ -1,0 +1,18 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../stm32"
+		}
+	],
+	"settings": {
+		"files.associations": {
+			"gpio.h": "c",
+			"unistd.h": "c",
+			"string.h": "c",
+			"scratch2": "c"
+		}
+	}
+}

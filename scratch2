@@ -1,0 +1,17 @@
+    switch (buff[1])
+    {
+    case 'R':
+        RedLEDflip();
+        break;
+    case 'G':
+        GreenLEDflip();
+        break;
+    case 'B':
+        BlueLEDflip();
+        break;
+    case 'g':
+        Green2LEDflip();
+        break;
+    default:
+        return;
+    }
